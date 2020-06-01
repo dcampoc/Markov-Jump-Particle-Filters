@@ -1,0 +1,4 @@
+Please execute the file "testing1.m" to run the algorithm. The proposed code represents a switching linear dynamical system
+trained based on the data in "PMSatafile.M", which can be seen as a normal trajectory motion. The algorithms is able to make
+predictions and detect anomalies based on such a data. Abnormal trajectory motions are also provided for comparisson/testing purposes, 
+please set the variable Testing = 1 or 2 for analyzing abnormal data. 
